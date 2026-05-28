@@ -67,7 +67,7 @@ export default function Trust() {
               <span className="text-[11px] font-bold text-neutral-500 uppercase tracking-widest">Sistem Rilis</span>
             </div>
             <div className="flex items-baseline gap-0.5">
-              <Counter end={180} suffix="+" />
+              <Counter end={1} suffix="+" />
             </div>
             <p className="text-xs text-neutral-500 font-medium select-none">
               Aplikasi & POS Sukses Terdeploy
@@ -83,7 +83,7 @@ export default function Trust() {
               <span className="text-[11px] font-bold text-neutral-500 uppercase tracking-widest">Kepuasan Client</span>
             </div>
             <div className="flex items-baseline gap-0.5">
-              <Counter end={99.4} decimals={1} suffix="%" />
+              <Counter end={99} decimals={1} suffix="%" />
             </div>
             <p className="text-xs text-neutral-500 font-medium select-none">
               Review Bintang Lima di Google & WA
@@ -99,7 +99,7 @@ export default function Trust() {
               <span className="text-[11px] font-bold text-neutral-500 uppercase tracking-widest">Uptime SLA</span>
             </div>
             <div className="flex items-baseline gap-0.5">
-              <Counter end={99.99} decimals={2} suffix="%" />
+              <Counter end={99} decimals={2} suffix="%" />
             </div>
             <p className="text-xs text-neutral-500 font-medium select-none">
               Infrastruktur Aman Bebas Lag saat Peak
