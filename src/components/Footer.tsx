@@ -13,12 +13,12 @@ export default function Footer() {
         <div className="lg:col-span-4 space-y-5">
           <a href="#" className="flex items-center gap-2 group w-fit">
             <span className="font-extrabold text-xl tracking-tight text-neutral-900 font-sans">
-              Cuttocut<span className="text-blue-600">App</span>
+              Luno<span className="text-blue-600">App</span>
             </span>
           </a>
 
           <p className="text-neutral-500 leading-relaxed font-normal max-w-sm">
-            CuttocutApp adalah premium software house khusus Food & Beverage di Indonesia. Kami fokus membawa coffee shop lokal berkembang mapan melalui keandalan sistem POS, mobile app, dan dasbor analitis.
+            LunoApp adalah premium software house khusus Food & Beverage di Indonesia. Kami fokus membawa coffee shop lokal berkembang mapan melalui keandalan sistem POS, mobile app, dan dasbor analitis.
           </p>
 
           <div className="space-y-2 border-t border-neutral-200/40 pt-4 max-w-sm font-medium">
@@ -28,7 +28,7 @@ export default function Footer() {
             </div>
             <div className="flex items-center gap-2 text-neutral-700">
               <Mail className="w-3.5 h-3.5 text-blue-600" />
-              <span>cuttocutofficial@gmail.com</span>
+              <span>lunoappofficial@gmail.com</span>
             </div>
             <div className="flex items-start gap-2 text-neutral-700 font-normal">
               <MapPin className="w-3.5 h-3.5 text-blue-600 shrink-0 mt-0.5" />
@@ -125,7 +125,7 @@ export default function Footer() {
 
       {/* Copy-claim footer line */}
       <div className="max-w-7xl mx-auto px-6 sm:px-8 lg:px-12 pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 font-normal text-neutral-400 text-[11px]">
-        <p>© 2026 CuttocutApp. Seluruh hak cipta dilindungi undang-undang.</p>
+        <p>© 2026 LunoApp. Seluruh hak cipta dilindungi undang-undang.</p>
         <div className="flex items-center gap-6">
           <a href="#" className="hover:text-neutral-900">Syarat & Ketentuan</a>
           <span>•</span>

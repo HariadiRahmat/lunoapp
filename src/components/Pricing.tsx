@@ -55,7 +55,7 @@ export default function Pricing() {
 
   const getWaLinkWithText = (planName: string, priceText: string) => {
     const text = encodeURIComponent(
-      `Halo CuttocutApp, saya tertarik untuk berkonsultasi mengenai pembangunan sistem digital dengan sistem *Paket ${planName} (${priceText})* untuk bisnis Coffee Shop saya.`
+      `Halo LunoApp, saya tertarik untuk berkonsultasi mengenai pembangunan sistem digital dengan sistem *Paket ${planName} (${priceText})* untuk bisnis Coffee Shop saya.`
     );
     return `https://wa.me/6285710300560?text=${text}`;
   };

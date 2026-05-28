@@ -8,7 +8,7 @@ export default function Testimonials() {
       role: "Founder Kopi Senja",
       avatarBg: "bg-amber-100 text-amber-800",
       initial: "AW",
-      comment: "Aplikasi POS CuttucutApp merubah total alur kerja kafe kami. Laporan penjualan harian 12 cabang sekarang tersentralisasi otomatis. Kehilangan stok biji kopi bisa terpantau real-time!",
+      comment: "Aplikasi POS  LunoApp merubah total alur kerja kafe kami. Laporan penjualan harian 12 cabang sekarang tersentralisasi otomatis. Kehilangan stok biji kopi bisa terpantau real-time!",
       stars: 5,
       date: "Dua minggu lalu"
     },
@@ -28,7 +28,7 @@ export default function Testimonials() {
       role: "Operations Manager Daily Sip",
       avatarBg: "bg-blue-100 text-blue-800",
       initial: "RM",
-      comment: "Sangat bersyukur mempercayakan sistem kami ke CuttucutApp. Layanan bantuan mereka sangat responsif, jika ada isu laci kasir macet langsung diarahkan step by step via WhatsApp dalam 5 menit.",
+      comment: "Sangat bersyukur mempercayakan sistem kami ke  LunoApp. Layanan bantuan mereka sangat responsif, jika ada isu laci kasir macet langsung diarahkan step by step via WhatsApp dalam 5 menit.",
       stars: 5,
       date: "Tiga bulan lalu"
     }

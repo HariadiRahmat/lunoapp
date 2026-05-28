@@ -61,7 +61,7 @@ export default function Navbar() {
             <div className="flex items-center justify-center">
               <a href="#" className="flex items-center gap-2 group">
                 <span className="font-extrabold text-xl tracking-tight text-neutral-900 group-hover:opacity-85 transition-opacity">
-                  Cuttocut<span className="text-blue-600">App</span>
+                   Luno<span className="text-blue-600">App</span>
                 </span>
               </a>
             </div>
@@ -91,7 +91,7 @@ export default function Navbar() {
             {/* Logo */}
             <a href="#" className="flex items-center gap-2 group">
               <span className="font-extrabold text-xl tracking-tight text-neutral-900">
-                Cuttocut<span className="text-blue-600">App</span>
+                Luno<span className="text-blue-600">App</span>
               </span>
             </a>
 

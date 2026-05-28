@@ -66,7 +66,7 @@ export default function VisualDashboardMockup() {
             <span className="w-3 h-3 rounded-full bg-green-400 block" />
           </div>
           <span className="text-[11px] font-mono text-neutral-400 ml-2 py-0.5 px-2 bg-neutral-100 border border-neutral-200/30 rounded-md">
-            dashboard.cuttucut.cloud
+            dashboard. Luno 
           </span>
         </div>
         
