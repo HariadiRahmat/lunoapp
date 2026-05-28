@@ -112,13 +112,7 @@ export default function Footer() {
             </a>
           </div>
 
-          <div className="bg-neutral-200/40 p-3 rounded-xl border border-neutral-200/20">
-            <span className="text-[9px] uppercase font-bold text-neutral-400 block font-sans">STATUS SERVER</span>
-            <span className="text-[10px] font-bold text-neutral-900 flex items-center gap-1 mt-1">
-              <span className="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse" />
-              Sistem Semua Online
-            </span>
-          </div>
+    
         </div>
 
       </div>
